@@ -1,0 +1,13 @@
+4dece5a7b45d507a175bb5d385d3eff2 *DESCRIPTION
+88ad2dd9f35561d1d729c0770a3539cc *NAMESPACE
+568afcb539c77d6bcf56747206b960c9 *R/fundata.R
+912bccaf4be7479b018b147d39e4e0dd *R/funplot.R
+37755571fdd95ddcdc8799afd20c7c77 *R/funscore.R
+f6626ed0c6127ef9335bbc898eb3db5e *build/vignette.rds
+da72f75ec76ca1a3aab29696e22475fc *inst/doc/introduction.R
+56d3e5aa63cf5c44bbc7d3faa7cc3f9c *inst/doc/introduction.Rmd
+b3bc29e03e4d44dc770ccd95cafad389 *inst/doc/introduction.html
+90e56224e31e951a9381325d01d3724c *man/fundata.Rd
+309276004ebc2ad169dedda374a2d46d *man/funplot.Rd
+e2523bb979e56165a4d6abc3f743d853 *man/funscore.Rd
+56d3e5aa63cf5c44bbc7d3faa7cc3f9c *vignettes/introduction.Rmd
